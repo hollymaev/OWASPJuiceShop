@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-06T01:51:12Z" name="Default suite" finished-at="2020-02-06T01:52:08Z" duration-ms="56348">
+    <groups>
+    </groups>
+    <test started-at="2020-02-06T01:51:12Z" name="Default test" finished-at="2020-02-06T01:52:08Z" duration-ms="56348">
+      <class name="test.InitialTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.InitialTest@1dac5ef]" started-at="2020-02-05T17:51:12Z" name="setUp" finished-at="2020-02-05T17:51:15Z" duration-ms="3275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="canRegisterNewUser()[pri:0, instance:test.InitialTest@1dac5ef]" started-at="2020-02-05T17:51:15Z" name="canRegisterNewUser" finished-at="2020-02-05T17:51:33Z" duration-ms="17928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- canRegisterNewUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.InitialTest@1dac5ef]" started-at="2020-02-05T17:51:33Z" name="tearDown" finished-at="2020-02-05T17:51:34Z" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.InitialTest@1dac5ef]" started-at="2020-02-05T17:51:34Z" name="setUp" finished-at="2020-02-05T17:51:36Z" duration-ms="2157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="cannotRegisterNewUserValidation()[pri:0, instance:test.InitialTest@1dac5ef]" started-at="2020-02-05T17:51:36Z" name="cannotRegisterNewUserValidation" finished-at="2020-02-05T17:52:07Z" duration-ms="31666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cannotRegisterNewUserValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.InitialTest@1dac5ef]" started-at="2020-02-05T17:52:07Z" name="tearDown" finished-at="2020-02-05T17:52:08Z" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.InitialTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
